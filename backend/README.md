@@ -5,8 +5,8 @@
 ---
 
 ## 👤 Student Information
-* **Name:** Himangi Bhatt
-* **UID:** 23BCC70020
+* **Name:** Om Kumar Jha
+* **UID:** 23BCC70012
 * **Date of Submission:** 27th February, 2026
 
 ---
